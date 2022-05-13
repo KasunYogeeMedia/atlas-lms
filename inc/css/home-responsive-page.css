@@ -1,0 +1,311 @@
+
+@media (min-width: 767px) {
+    .display-table {
+        display: table;
+        width: 100%;
+    }
+    .vertical-align {
+        display: table-cell;
+        vertical-align: middle;
+        float: none;
+    }
+    .grid-space-1 div[class*="col-"] {
+        padding: 0 1px;
+    }
+}
+@media only screen and (max-width: 767px) {
+
+    .right-heder {
+        text-align: center;
+    }
+  
+    .navbar-inverse .navbar-brand {
+        float: inherit;
+        font-weight: 600;
+        color: rgb(255 255 255);
+    }
+    .navbar-inverse {
+        justify-content: center;
+        display: block;
+    }
+    .logo img {
+          padding-bottom: 20px;
+        display: block;
+        margin: 0 auto;
+
+    }
+    .sticky {
+   
+        position: unset;
+        
+    }
+    .right-heder .ico {
+        font-size: 14px;
+    }
+    .middleBar .header-items .header-item a {
+   
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+      
+    }
+    .carousel-indicators {
+       
+        bottom: -15px;
+ 
+    }
+    .main-wrapper {
+        padding: 50px 0;
+
+    }
+    .main-box h3 {
+        font-size: 18px;
+        
+        padding: 20px 0 10px;
+    }
+    .main {
+        padding: 0 0 20px;
+    }
+    .main ul li {
+      
+        font-size: 16px;
+        margin-right: 5px;
+    }
+    .main .container-fluid {
+       
+        padding: 0;
+    }
+    .list-unstyled {
+
+        padding-bottom: 20px;
+    }
+    .main .container-fluid .col-md-3 {
+        padding: 0 10px;
+ 
+    }
+    .product span:nth-of-type(2), .product span:nth-of-type(1) {
+ 
+        font-size: 10px;
+   
+        line-height: 32px;
+        height: 30px;
+        width: 30px;
+  
+    }
+    .product-list h2 {
+
+        font-size: 14px;
+  
+        padding-top: 5px;
+        padding-bottom: 5px;
+        line-height: 20px;
+    }
+
+    .product-list .price {
+      
+        font-size: 14px;
+      
+        margin: 0 2px 5px 0;
+       
+    }
+
+    .product-list .add-to-cart {
+     
+        font-size: 13px;
+    
+        padding: 5px 15px;
+      
+    }
+    .selling-top h2 {
+     
+        font-size: 27px;
+      
+    }
+    .selling-top p {
+        padding-top: 15px;
+        font-size: 15px;
+      
+        padding-bottom: 25px;
+    }
+    .section-3-left {
+        text-align: center;
+        padding: 0px 15px 30px;
+    }
+    .section-3-left h2 {
+      
+        font-size: 80px;
+        padding-bottom: 15px;
+    }
+    .selling-box p a {
+    
+        padding-bottom: 20px;
+    }
+    .section-3-left h4 {
+    
+        font-size: 27px;
+        letter-spacing: 1px;
+        padding-bottom: 15px;
+       
+    }
+    .section-3-left p {
+     
+        font-size: 15px;
+     
+        padding-bottom: 15px;
+    }
+    .section-3-right {
+      
+        min-height: 250px;
+    }
+    .news-wrapper {
+        padding: 50px 0 0;
+     
+    }
+    .news-left input {
+       
+        width: 80%;
+    }
+    .news-left p, .news-right p {
+      
+        font-size: 14px;
+        }
+
+        .copyright-wrapper p {
+        
+            word-spacing: 1px;
+          
+            font-size: 12px;
+            padding-top: 5px;
+        }
+        .footer-1 ul li {
+       
+            margin-top: 15px;
+        }
+        .footer-1 ul{
+            text-align: center;
+        }
+        .footer-wrapper {
+           
+            padding: 40px 0;
+        }
+        .footer-wrapper h4 {
+            padding-bottom: 10px;
+          
+            font-size: 16px;
+          
+            padding-top: 21px;
+        }
+        .footer-wrapper p, .footer-wrapper ul li {
+            font-size: 14px;
+            line-height: 25px;
+           
+        }
+}
+/*portrait*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .middleBar {
+        padding: 15px 0;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+        margin-left: 15x;
+        margin-right: 3px;
+        font-size: 14px;
+    }
+    .dropdown-menu>li>a {
+        font-size: 12px;
+    }
+    .top-wrapper p {
+        font-size: 12px;
+      
+    }
+    .carousel-indicators {
+        bottom: -15px;
+    }
+    .main-wrapper {
+        padding: 50px 0 0;
+        
+    }
+    .main-box h3 {
+        font-size: 18px;
+       
+        padding: 20px 0 10px;
+    }
+    .main-box p {
+        font-size: 14px;
+ 
+        font-weight: 400;
+    }
+    .list-unstyled {
+     
+        padding-bottom: 20px;
+    }
+    .main ul li {
+      
+        font-size: 16px;
+    
+    }
+    .main .container-fluid {
+     
+        padding: 0;
+    }
+    .product span:nth-of-type(2), .product span:nth-of-type(1) {
+  
+        font-size: 11px;
+       
+        line-height: 35px;
+        height: 35px;
+        width: 35px;
+      
+    }
+    .main {
+        padding: 50px 0 30px;
+    }
+    .selling-top p {
+        padding-top: 15px;
+        font-size: 16px;
+       
+        padding-bottom: 30px;
+    }
+    .section-3-left {
+        text-align: center;
+        padding: 150px 15px;
+    }
+    .section-3-left h2 {
+      
+        font-size: 100px;
+    }
+    .section-3-left h4 {
+       
+        font-size: 24px;
+        letter-spacing: 1px;
+        margin-top: -20px;
+        margin-bottom: 15px;
+    }
+
+    .section-3-left p {
+      
+        font-size: 14px;
+    }
+    .section-3-right {
+       
+        min-height: 500px;
+    }
+    .news-wrapper {
+        padding: 50px 0;
+  
+    }
+    .copyright-wrapper p {
+      
+        padding-top: 9px;
+    }
+
+}
+/*landscape*/
+
+@media (min-width: 992px) and (max-width: 1355px) {}
+/* header end* /
+
+
+
+

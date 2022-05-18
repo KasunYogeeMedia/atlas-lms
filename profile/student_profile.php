@@ -714,10 +714,7 @@ if(isset($_POST['submit_bt'])){
                                         <p>පන්ති ගාස්තු ගෙවූ විට ඔබට පන්ති සමග zoom ඔස්සේ සජීවීව සම්බන්ධ වීමට, පසුගිය පන්ති වල වීඩියෝ නැරඹීමට , tute ලබා ගැනීමට සහ ප්‍රශ්න පත්‍ර ලබා ගැනීමට හැකියාව ලැබෙනු ඇත. ( මුදල් ගෙවූ විගසම මේ සියල්ල නොලැබේ. මුදල් ගෙවා රිසිට් පත upload කර පැය 24 ක් ඇතුලත ඔබගේ ගිණුමට ඉහත පහසුකම් ලැබෙනු ඇත.)</p>
                                         <p>Visa , master , Amex card වලින්ද පන්ති ගාස්තු ගෙවිය හැක. ඒ සදහා මෙහි ඇති card payment click කරන්න</p>
                                         <p>සාමාන්‍ය පන්ති ගාස්තු නොගෙවන , පන්ති ගාස්තු සදහා සහන ශිෂ්‍යත්ව ලැබූ සිසුන් බැංකු ගෙවීම් පත්‍රිකාව මෙම වෙබ් අඩවියට upload කිරීමෙන් වලකින්න.</p>
-                                        <p>ඔවුන් එම ගෙවීම් පත්‍රිකාව ඔබගේ නම , ශ්‍රේණිය , මාධ්‍යය , ගුරුවරයාගේ නම සමග විෂය ද සදහන් කර 0772879970 යන අංකයට WhatsApp කරන්න.</p>
-                                        <p>පන්ති ගාස්තු ගෙවීම් සම්බන්ධව යම් ගැටලුවක් වේ නම YouTube වෙත ගොස් " Guru Niwasa " ලෙස search කර " පන්ති ගාස්තු ගෙවන ආකාරය වීඩියෝව නරඹන්න "... නැතිනම් ආයතනයට අමතන්න.</p>
-                                        <p>ගුරු නිවස කාර්යාලය<br>
-                                        0772879970 , 0767681431</p>
+                                       
 									</div>
 								</div>
 							</div>
@@ -725,55 +722,19 @@ if(isset($_POST['submit_bt'])){
                                 <div class="value_props">
                                 <h3>ගෙවීම් කළ හැකි ගිණුම් අංකය</h3>
                                 <div class="value_content">
-                                    <p>බැංකුව : <strong>BOC</strong>
-                                    <br> ගිණුම් අංකය :  83091005
-                                    <br> ශාඛාව : <strong>Nugegoda</strong>
-                                    <br> ගිණුමේ නම :  M.K. Abhiman Withakshana</p>
+                                    <p>බැංකුව : <strong>Sample Bank 1</strong>
+                                    <br> ගිණුම් අංකය :  123456789
+                                    <br> ශාඛාව : <strong>Sample Branch 1</strong>
+                                    <br> ගිණුමේ නම :  Sample Name</p>
                                     </div>
                                     <div class="value_content">
-                                    <p>බැංකුව : <strong>People’s Bank</strong>
-                                    <br> ගිණුම් අංකය : 335200180810327
-                                    <br> ශාඛාව : <strong>Nugegoda</strong>
-                                    <br> ගිණුමේ නම :  M.K. Abhiman Withakshana</p>
-                                    </div>
-                                    <div class="value_content">
-                                    <p>බැංකුව : <strong>Commercial Bank</strong>
-                                    <br> ගිණුම් අංකය : 8200065083
-                                    <br> ශාඛාව : <strong>Nugegoda</strong>
-                                    <br> ගිණුමේ නම :  M.K. Abhiman Withakshana</p>
-                                    </div>
-                                    <div class="value_content">
-                                    <p>බැංකුව : <strong>HNB Bank</strong>
-                                    <br> ගිණුම් අංකය : 703020106991
-                                    <br> ශාඛාව : <strong>WTC</strong>
-                                    <br> ගිණුමේ නම :  M.K. Abhiman Withakshana</p>
-                                    </div>
-                                    <div class="value_content">
-                                    <p>බැංකුව : <strong>SAMPATH BANK</strong>
-                                    <br> ගිණුම් අංකය : 100353930403
-                                    <br> ශාඛාව : <strong>Nugegoda</strong>
-                                    <br> ගිණුමේ නම :  M.K. Abhiman Withakshana</p>
-                                    </div>
-                                    <div class="value_content">
-                                    <p>බැංකුව : <strong>Nations Trust Bank</strong>
-                                    <br> ගිණුම් අංකය : 200530104333
-                                    <br> ශාඛාව : <strong>Nugegoda</strong>
-                                    <br> ගිණුමේ නම :  M.K. Abhiman Withakshana</p>
-                                    </div>
-                                    <div class="value_content">
-                                    <p>බැංකුව :<strong>NSB Bank</strong>
-                                    <br> ගිණුම් අංකය :100266016782
-                                    <br> ශාඛාව : <strong>Nugegoda</strong>
-                                    <br> ගිණුමේ නම :  M.K. Abhiman Withakshana </p>
-                                    </div>
-                                    <div class="value_content">
-                                    <p>බැංකුව : <strong>Cargills Bank</strong>
-                                    <br> ගිණුම් අංකය : 005103000091
-                                    <br> ශාඛාව : <strong>Maharagama</strong>
-                                    <br> ගිණුමේ නම :  GURU NIWASA INSTITUTE (PRIVATE) LIMITED</p>
+                                    <p>බැංකුව : <strong>Sample Bank 1</strong>
+                                    <br> ගිණුම් අංකය : 123456789
+                                    <br> ශාඛාව : <strong>Sample Branch 2</strong>
+                                    <br> ගිණුමේ නම :  Sample Name</p>
                                     </div>
                                    <br>
-                                     <h4>ඉහත සදහන් cargils bank ගිණුම් අංකය සදහා දිවයිනේ පිහිටි ඕනෑම cargils food city super market එකකින් පන්ති සදහා මුදල් තැන්පත් කල හැක.</h4>
+                                     <!-- <h4>ඉහත සදහන් ගිණුම් අංක සදහා දිවයිනේ පිහිටි ඕනෑම cargils food city super market එකකින් පන්ති සදහා මුදල් තැන්පත් කල හැක.</h4> -->
                                    
                                 </div>
                                 </div>
@@ -783,7 +744,6 @@ if(isset($_POST['submit_bt'])){
 									<h3>විෂයක් තෝරා ගන්නා ආකාරය</h3>
 									<br>
 									<p>ගුරුවරයා තෝරා ගැනීමට ඔබට නොපෙන්වයි හෝ ඔබට අදාල නොවන විෂයන් පෙන්වන්නේ නම් edit profile ගොස් වෙන ශ්‍රේණියක් select කර නැවත ඔබට අදාල ශ්‍රේණිය select කරන්න. පසුව ලැබෙන ලැයිස්තුවෙන් ඔබට සම්බන්ධ විය යුතු විෂයන් සහ ගුරුවරුන් තෝරා ගත හැක. එසේ තෝරාගෙන update profile click කරන්න.</p>
-									<p>මෙම LMS ගිණුම පරිහනය කරන ආකාරය සම්පූර්ණයෙන් දැන ගැනීමට YOUTUBE හි GURU NIWASA චැනලයට පිවිස එහි ඇති පුහුණු වීමේ වීඩියෝ නරඹන්න</p>
 									<form method="post" enctype="multipart/form-data">	
 									<table class="table table-bordered tabl-div">
 <?php

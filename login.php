@@ -88,7 +88,7 @@ if (isset($_POST['login'])) {
 
 <body>
 	<!-- Signup Start -->
-	<div class="sign_in_up_bg">
+	<div class="sign_in_up_bg" style="height: inherit;">
 		<div class="container">
 			<div class="row justify-content-lg-center justify-content-md-center">
 				<!--<div class="col-lg-12">-->
@@ -98,7 +98,7 @@ if (isset($_POST['login'])) {
 				<div class="col-lg-6 col-md-8">
 					<div class="sign_form">
 					    	<div class="main_logo25" id="logo">
-					<a href="<?php echo $url;?>" title="Home "> <img src="./dashboard/settings/logo/<?php echo $main_logo; ?>" class="img-responsive" alt="Guruniwasa"></a>
+					<a href="<?php echo $url;?>" title="Home "> <img src="./dashboard/settings/logo/<?php echo $main_logo; ?>" class="img-responsive" alt="Atlas"></a>
 					</div>
 						<h2>Welcome to <?php echo $application_name; ?></h2>
 						<p>Log In to <?php echo $application_name; ?> Account!</p>
@@ -132,11 +132,11 @@ if (isset($_POST['login'])) {
 								  </div>
                             </form>
 						<p class="sgntrm145">Or <a href="forgot_password.php">Forgot Password</a>.</p>
-						<p style="    line-height: 1.5;
+						<!-- <p style="    line-height: 1.5;
                             padding-top: 10px;
                             font-weight: 600;">දුරකතන අංකය සහ මුරපදය යොදා login විය හැක්කේ ගුරු නිවස ආයතනයේ ගිණුමක් සෑදූ දරුවන් හට පමණි.
                             ගුරුනිවස ආයතනයේ ගිණුමක් සාදා ගැනීමට පහත සදහන් register ක්ලික් කර දරුවාගේ තොරතුරු ඇතුලත් කර ගිණුමක් සාදා ගන්න.
-                        </p>
+                        </p> -->
 						<p class="mb-0 mt-30 hvsng145">Don't have an account? <a href="register.php">Register</a></p>
                         
 					</div>

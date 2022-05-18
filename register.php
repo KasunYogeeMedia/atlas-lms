@@ -177,8 +177,8 @@ input.invalid + .error-message {
 			<div class="row justify-content-lg-center justify-content-md-center">
 				<div class="col-lg-12">
 					<div class="main_logo25" id="logo">
-						<!--<a href="index.php"><img src="./inc/images/guruniwasa-logo.png" alt="" style="text-align:center;"></a>-->
-						<!--<a href="index.php"><img class="img-responsive" src="./inc/images/guruniwasa-logo.png" alt="Guruniwasa"></a>-->
+						<!--<a href="index.php"><img src="./inc/images/Atlas-logo.png" alt="" style="text-align:center;"></a>-->
+						<!--<a href="index.php"><img class="img-responsive" src="./inc/images/Atlas-logo.png" alt="Atlas"></a>-->
 					</div>
 				</div>
 			

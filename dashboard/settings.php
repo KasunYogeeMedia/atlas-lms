@@ -171,7 +171,7 @@ require_once 'sidebarmenu.php';
                         <label>Main Logo</label>
                         </div>
                         <div class="form-group">
-                        <img src="./settings/logo/<?php echo $main_logo; ?>" class="img-responsive" alt="Guruniwasa">
+                        <img src="./settings/logo/<?php echo $main_logo; ?>" class="img-responsive" alt="Atlas">
                         
                         </div>
                         <div class="form-group">                    

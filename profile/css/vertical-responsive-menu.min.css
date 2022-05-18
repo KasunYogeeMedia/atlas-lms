@@ -75,12 +75,12 @@
 }
 
 .menu--link:hover {
-	background: #ffecec;
+	background: #f36a22;
 	color: #ed2a26 !important;
 }
 
 .menu--link.active {
-	background: #ffecec;
+	background: #f36a22;
 	color: #ed2a26;
 }
 
@@ -120,7 +120,10 @@
 }
 
 .menu--link:hover,.menu--link:hover .menu--label {
-	background: #ffecec;
+	background: #f36a22;
+}
+span.menu--label:hover{
+	color: #af1f24;
 }
 
 .menu--icon {

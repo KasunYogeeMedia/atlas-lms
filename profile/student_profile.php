@@ -767,8 +767,8 @@ while($tea_resalt=mysqli_fetch_assoc($tea_qury)){
 ?>
 
 										<thead>
-											<tr style="background-color: #0168db;">
-												<td colspan="6" style="color: #ffffff;border:4px solid #0168db;"><?php echo $tea_resalt['fullname']; ?></td>
+											<tr style="background-color: #8b8c90;">
+												<td colspan="6" style="color: #ffffff;border:4px solid #8b8c90;"><?php echo $tea_resalt['fullname']; ?></td>
 											</tr>
 										</thead>
 										<tbody>
@@ -839,7 +839,7 @@ while($payment_resalt=mysqli_fetch_array($payment_qury)){
 								<hr style="border:2px solid #28a745">
 								<div class="value_props">
 									<h3>Bank Payment</h3>
-									<hr style="border:2px solid #0168db">						
+									<hr style="border:2px solid #8b8c90">						
 <?php
 $today_time=date("Y-m-d");
 $payment_qury=mysqli_query($conn,"SELECT * FROM lmspayment WHERE paymentMethod='Bank' and userID='$_SESSION[reid]' and status='1' ORDER BY pid DESC");

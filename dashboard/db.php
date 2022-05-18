@@ -37,7 +37,5 @@
 	$hash_salt = $getway_resalt['hash_salt'];
 	$a_token = $getway_resalt['a_token'];
 
-	$lmsurl=mysqli_query($conn,"SELECT * FROM lmsurl WHERE id=1");
-	$lmsurl_resalt=mysqli_fetch_array($lmsurl);
-	$url = $lmsurl_resalt['url'];
+	
 ?>

@@ -8,8 +8,7 @@ if (isset($_POST['submit'])) {
    $main_logo = $_FILES["main_logo"]["name"];
    $tempname = $_FILES["main_logo"]["tmp_name"];    
    $folder = "settings/logo/".$main_logo;
-   var_dump($main_logo);
-   var_dump($folder);
+  
 }
 
 $count_att=mysqli_query($conn,"SELECT COUNT(*) FROM settings ");

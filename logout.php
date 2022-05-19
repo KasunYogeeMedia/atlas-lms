@@ -4,6 +4,6 @@ session_start();
 session_unset();
 session_destroy();
 setcookie("reid","", time()-60, "/");
-header('location:$url');
+header('location:https://stepup.lk');
 die();
 ?>

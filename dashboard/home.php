@@ -68,7 +68,7 @@ require_once("conn.php");
                         <ul class="navbar-nav header-right">
                             <li class="nav-item dropdown header-profile">
                                 <a class="nav-link" href="#" role="button" data-toggle="dropdown">
-                                    <img src="../profile/images/pic1.jpg" width="20" alt=""/>
+                                    <img src="/profile/images/pic1.jpg" width="20" alt=""/>
                                 </a>
                                 <div class="dropdown-menu dropdown-menu-right">
                                     <a href="admin.php" class="dropdown-item ai-icon">
